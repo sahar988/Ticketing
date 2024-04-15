@@ -1,7 +1,3 @@
-## Getting Started
-
-Install the packages and you're good to go!
-
 ```bash
 
 # Install dependencies

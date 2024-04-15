@@ -375,9 +375,16 @@
     },
     {
       "id": 32,
-      "user": null,
+      "user": {
+        "id": 3,
+        "firstName": "Ciara",
+        "lastName": "Spinka",
+        "dob": "1986-09-22T19:38:02.633Z",
+        "address": "Cleora Green,Cape Coral, Jersey",
+        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/682.jpg"
+      },
       "number": "AW5M67M0",
-      "status": "unassigned"
+      "status": "assigned"
     },
     {
       "id": 33,
@@ -435,118 +442,55 @@
     },
     {
       "title": "rrr",
-      "user": {
-        "id": 5,
-        "firstName": "Hermina",
-        "lastName": "Goyette",
-        "dob": "1988-03-30T14:15:33.400Z",
-        "address": "Camylle Crest,Joplin, Sudan",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 42
     },
     {
       "title": "rrr",
-      "user": {
-        "id": 5,
-        "firstName": "Hermina",
-        "lastName": "Goyette",
-        "dob": "1988-03-30T14:15:33.400Z",
-        "address": "Camylle Crest,Joplin, Sudan",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 43
     },
     {
       "title": "eee",
-      "user": {
-        "id": 5,
-        "firstName": "Hermina",
-        "lastName": "Goyette",
-        "dob": "1988-03-30T14:15:33.400Z",
-        "address": "Camylle Crest,Joplin, Sudan",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 44
     },
     {
       "title": "ww",
-      "user": {
-        "id": 9,
-        "firstName": "Peter",
-        "lastName": "Paucek",
-        "dob": "2002-01-01T22:34:00.042Z",
-        "address": "Pfeffer Village,Nashua, Tonga",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/481.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 45
     },
     {
       "title": "kkk",
-      "user": {
-        "id": 4,
-        "firstName": "Braulio",
-        "lastName": "Sanford",
-        "dob": "1974-03-16T22:50:24.859Z",
-        "address": "Madie Inlet,Ceres, Tuvalu",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/6.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 46
     },
     {
       "title": "rrr",
-      "user": {
-        "id": 1,
-        "firstName": "Tyra",
-        "lastName": "Donnelly",
-        "dob": "1992-03-27T01:54:57.988Z",
-        "address": "Efren Plaza,West Hartford, Nicaragua",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 47
     },
     {
       "title": "rrr",
-      "user": {
-        "id": 2,
-        "firstName": "Holden",
-        "lastName": "Bergnaum",
-        "dob": "1958-02-12T05:17:44.783Z",
-        "address": "Renner Crossroad,Chula Vista, Azerbaijan",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/817.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 48
     },
     {
       "title": "w",
-      "user": {
-        "id": 1,
-        "firstName": "Tyra",
-        "lastName": "Donnelly",
-        "dob": "1992-03-27T01:54:57.988Z",
-        "address": "Efren Plaza,West Hartford, Nicaragua",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 49
     },
     {
       "title": "qqq",
-      "user": {
-        "id": 1,
-        "firstName": "Tyra",
-        "lastName": "Donnelly",
-        "dob": "1992-03-27T01:54:57.988Z",
-        "address": "Efren Plaza,West Hartford, Nicaragua",
-        "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg"
-      },
+      "user": null,
       "status": "unassigned",
       "id": 50
     },
@@ -573,7 +517,7 @@
         "address": "Efren Plaza,West Hartford, Nicaragua",
         "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg"
       },
-      "status": "unassigned",
+      "status": "completed",
       "id": 52
     }
   ],
