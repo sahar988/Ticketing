@@ -31,21 +31,19 @@ function TicketDetailPage() {
           </>
         )}
       </Box>
-      {ticket.user &&
-        ticket.status !==
-          "completed"(
-            <>
-              <Box>Assigned Ticket</Box>
-              <Button
-                onClick={handleCompleteTicket}
-                border="2px"
-                borderColor="green.500"
-                bgColor="green"
-              >
-                Complete
-              </Button>
-            </>
-          )}
+      {ticket.user && ticket.status !== "completed" && (
+        <>
+          <Box>Assigned Ticket</Box>
+          <Button
+            onClick={handleCompleteTicket}
+            border="2px"
+            borderColor="green.500"
+            bgColor="green"
+          >
+            Complete
+          </Button>
+        </>
+      )}
       {!ticket.user && (
         <Box>
           <span> Assign to :</span>
