@@ -2,7 +2,7 @@ import { Button, Select, Spinner, Box } from "@chakra-ui/react";
 import useUsers from "../Users/useUsers";
 import Empty from "../../UI/Empty";
 import { useState } from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import useAssign from "./useAssign";
 import { TICKET_STATUS } from "../../utils/constants";
 
